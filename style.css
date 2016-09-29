@@ -1,0 +1,45 @@
+body {
+  background: #39486F;
+  overflow: hidden;
+  height:100%;
+  font-family: open sans;
+}
+.test{
+  text-align: center;
+  opacity:0;
+  font-size:72px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.choice1{
+  text-align: center;
+  opacity:0;
+  font-size:72px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.choice2{
+  text-align: center;
+  opacity:0;
+  font-size:72px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.choice3{
+  text-align: center;
+  opacity:0;
+  font-size:72px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.choice4{
+  text-align: center;
+  opacity:0;
+  font-size:72px;
+  color: #fff;
+  font-weight: 300;
+}
